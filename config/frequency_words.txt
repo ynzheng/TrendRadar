@@ -25,3 +25,14 @@ real world assets
 ai
 !gai
 人工智能
+
+chatgpt
+openai
+sora
+
+claude
+claude code
+Anthropic
+
+chatgpt
+openai
